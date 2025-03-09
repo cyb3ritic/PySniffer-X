@@ -1,4 +1,4 @@
-from scapy.all import IP, TCP, UDP, HTTP, HTTPRequest, HTTPResponse
+from scapy.all import IP, TCP, UDP, HTTP, ICMP,  HTTPRequest, HTTPResponse
 
 class PacketAnalyzer:
     @staticmethod

@@ -1,0 +1,21 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Packet capture outputs
+*.pcap
+*.pcapng
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings (if used)
+.vscode/
+.idea/
+
+# Local logs
+*.log
+
+# macOS metadata
+.DS_Store
